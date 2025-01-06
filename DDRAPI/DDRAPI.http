@@ -1,0 +1,6 @@
+@DDRAPI_HostAddress = http://localhost:5294
+
+GET {{DDRAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
